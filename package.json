@@ -1,6 +1,6 @@
 {
     "$schema": "https://json.schemastore.org/package.json",
-    "name": "embed-builder",
+    "name": "discord-embed-builder",
     "version": "1.0.0",
     "description": "Discord embed builder created with `discord.js`",
     "main": "./src/index.ts",
