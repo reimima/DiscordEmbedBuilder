@@ -31,9 +31,3 @@ $ pnpm lint
 ## データベース
 
 `database/index.ts` は、`mysql2/promise` で実現可能です。
-
-## 独り言
-
-いつかweb上からでも作成できるようにしたいです()
-
-あとこの子、`footer` や `thumbnail` みたいに埋め込みの要素単位では削除できますが、 `footer` 内の `icon` や `text` 単位では削除できません()
